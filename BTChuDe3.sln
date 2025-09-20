@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTChuDe3", "BTChuDe3\BTChuDe3.csproj", "{3200F023-9D6B-4672-B3EE-EF458CE7680B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTChuDe3-JSon", "BTChuDe3\BTChuDe3-JSon.csproj", "{3200F023-9D6B-4672-B3EE-EF458CE7680B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTChuDe3-Xml", "BTChuDe3-Xml\BTChuDe3-Xml.csproj", "{B336E4D9-5350-41CA-A2EA-FFF07FFCD5D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3200F023-9D6B-4672-B3EE-EF458CE7680B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3200F023-9D6B-4672-B3EE-EF458CE7680B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3200F023-9D6B-4672-B3EE-EF458CE7680B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B336E4D9-5350-41CA-A2EA-FFF07FFCD5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B336E4D9-5350-41CA-A2EA-FFF07FFCD5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B336E4D9-5350-41CA-A2EA-FFF07FFCD5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B336E4D9-5350-41CA-A2EA-FFF07FFCD5D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
