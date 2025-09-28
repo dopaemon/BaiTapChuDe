@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.MainForm.resources
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.exe.config
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\bin\Debug\SinhVien.txt
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.Up2Date
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\bin\Debug\SinhVienJ.json
+C:\Users\Administrator\source\repos\StudentApp\StudentApp\bin\Debug\SinhVien2.xml

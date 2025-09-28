@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Student>
+		<MSSV>6010001</MSSV>
+		<GioiTinh>Nam</GioiTinh>
+		<HoTenLot>Nguyễn Văn</HoTenLot>
+		<Ten>An</Ten>
+		<NgaySinh>2002-05-12T00:00:00</NgaySinh>
+		<Lop>CTK60A</Lop>
+		<CMND>666111333</CMND>
+		<SoDT>0902111333</SoDT>
+		<DiaChi>Hà Nội</DiaChi>
+		<MonDangKy>
+			<string>Mạng máy tính</string>
+			<string>Hệ điều hành</string>
+		</MonDangKy>
+	</Student>
+	<Student>
+		<MSSV>6110002</MSSV>
+		<GioiTinh>Nữ</GioiTinh>
+		<HoTenLot>Trần Thị</HoTenLot>
+		<Ten>Bích</Ten>
+		<NgaySinh>2001-12-24T00:00:00</NgaySinh>
+		<Lop>CTK61B</Lop>
+		<CMND>777222444</CMND>
+		<SoDT>0912333555</SoDT>
+		<DiaChi>TP.HCM</DiaChi>
+		<MonDangKy>
+			<string>Lập trình mạng</string>
+			<string>Đồ án cơ sở</string>
+		</MonDangKy>
+	</Student>
+	<Student>
+		<MSSV>6210003</MSSV>
+		<GioiTinh>Nam</GioiTinh>
+		<HoTenLot>Phan Văn</HoTenLot>
+		<Ten>Tuấn</Ten>
+		<NgaySinh>2002-08-26T00:00:00</NgaySinh>
+		<Lop>CTK62C</Lop>
+		<CMND>888333555</CMND>
+		<SoDT>0923444666</SoDT>
+		<DiaChi>Đà Nẵng</DiaChi>
+		<MonDangKy>
+			<string>Phương pháp NCKH</string>
+			<string>Lập trình CSDL</string>
+		</MonDangKy>
+	</Student>
+	<Student>
+		<MSSV>6310004</MSSV>
+		<GioiTinh>Nữ</GioiTinh>
+		<HoTenLot>Trương Thị</HoTenLot>
+		<Ten>Hạnh</Ten>
+		<NgaySinh>2000-11-25T00:00:00</NgaySinh>
+		<Lop>CTK63A</Lop>
+		<CMND>999444666</CMND>
+		<SoDT>0934555777</SoDT>
+		<DiaChi>Hải Phòng</DiaChi>
+		<MonDangKy>
+			<string>Lập trình trên thiết bị di động</string>
+			<string>An toàn và bảo mật hệ thống</string>
+		</MonDangKy>
+	</Student>
+	<Student>
+		<MSSV>6410005</MSSV>
+		<GioiTinh>Nam</GioiTinh>
+		<HoTenLot>Nguyễn Văn</HoTenLot>
+		<Ten>Khoa</Ten>
+		<NgaySinh>2003-01-11T00:00:00</NgaySinh>
+		<Lop>CTK64B</Lop>
+		<CMND>101555777</CMND>
+		<SoDT>0945666888</SoDT>
+		<DiaChi>Cần Thơ</DiaChi>
+		<MonDangKy>
+			<string>Mạng máy tính</string>
+			<string>Đồ án cơ sở</string>
+		</MonDangKy>
+	</Student>
+	<Student>
+		<MSSV>6510006</MSSV>
+		<GioiTinh>Nam</GioiTinh>
+		<HoTenLot>Lê Hoàng</HoTenLot>
+		<Ten>Minh</Ten>
+		<NgaySinh>2001-03-16T00:00:00</NgaySinh>
+		<Lop>CTK65A</Lop>
+		<CMND>111555888</CMND>
+		<SoDT>0956777999</SoDT>
+		<DiaChi>Hà Nội</DiaChi>
+		<MonDangKy>
+			<string>Phương pháp NCKH</string>
+			<string>Lập trình CSDL</string>
+		</MonDangKy>
+	</Student>
+	<Student>
+		<MSSV>6610007</MSSV>
+		<GioiTinh>Nữ</GioiTinh>
+		<HoTenLot>Phạm Thị</HoTenLot>
+		<Ten>Hoa</Ten>
+		<NgaySinh>2002-06-21T00:00:00</NgaySinh>
+		<Lop>CTK66B</Lop>
+		<CMND>222666999</CMND>
+		<SoDT>0967889000</SoDT>
+		<DiaChi>TP.HCM</DiaChi>
+		<MonDangKy>
+			<string>Hệ điều hành</string>
+			<string>Đồ án cơ sở</string>
+		</MonDangKy>
+	</Student>
+	<Student>
+		<MSSV>6710008</MSSV>
+		<GioiTinh>Nam</GioiTinh>
+		<HoTenLot>Ngô Quang</HoTenLot>
+		<Ten>Huy</Ten>
+		<NgaySinh>2000-09-11T00:00:00</NgaySinh>
+		<Lop>CTK67C</Lop>
+		<CMND>333777000</CMND>
+		<SoDT>0978999111</SoDT>
+		<DiaChi>Đà Nẵng</DiaChi>
+		<MonDangKy>
+			<string>Mạng máy tính</string>
+			<string>Lập trình mạng</string>
+		</MonDangKy>
+	</Student>
+	<Student>
+		<MSSV>6810009</MSSV>
+		<GioiTinh>Nữ</GioiTinh>
+		<HoTenLot>Võ Thị</HoTenLot>
+		<Ten>Lan</Ten>
+		<NgaySinh>2001-12-06T00:00:00</NgaySinh>
+		<Lop>CTK68A</Lop>
+		<CMND>444888222</CMND>
+		<SoDT>0989000223</SoDT>
+		<DiaChi>Hải Phòng</DiaChi>
+		<MonDangKy>
+			<string>Lập trình trên thiết bị di động</string>
+			<string>An toàn và bảo mật hệ thống</string>
+		</MonDangKy>
+	</Student>
+	<Student>
+		<MSSV>6910010</MSSV>
+		<GioiTinh>Nam</GioiTinh>
+		<HoTenLot>Trần Văn</HoTenLot>
+		<Ten>Tuấn</Ten>
+		<NgaySinh>2002-04-16T00:00:00</NgaySinh>
+		<Lop>CTK69B</Lop>
+		<CMND>555999333</CMND>
+		<SoDT>0990111334</SoDT>
+		<DiaChi>Cần Thơ</DiaChi>
+		<MonDangKy>
+			<string>Lập trình CSDL</string>
+			<string>Đồ án cơ sở</string>
+		</MonDangKy>
+	</Student>
+</ArrayOfStudent>

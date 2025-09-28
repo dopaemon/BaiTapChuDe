@@ -1,0 +1,10 @@
+﻿4210001|Nam|Nguyễn Văn|An|2002-05-10|CTK42A|123456789|0901234567|Hà Nội|Mạng máy tính, Hệ điều hành, Lập trình CSDL
+4410002|Nữ|Trần Thị|Bích|2001-12-22|CTK44B|987654321|0912345678|TP.HCM|Lập trình mạng, Đồ án cơ sở
+4710003|Nam|Lê Hoàng|Minh|2003-03-15|CTK47C|456789123|0987654321|Đà Nẵng|Phương pháp NCKH, Lập trình CSDL, Mạng máy tính
+4910004|Nữ|Phạm Thị|Hoa|2002-08-08|CTK49A|654321987|0934567890|Hải Phòng|Lập trình trên thiết bị di động, An toàn và bảo mật hệ thống
+4710005|Nam|Ngô Quang|Huy|2001-11-30|CTK47A|192837465|0976543210|Cần Thơ|Mạng máy tính, Đồ án cơ sở, An toàn và bảo mật hệ thống
+4810006|Nam|Trần Văn|Tuấn|2002-07-12|CTK48B|111222333|0901122334|Hà Nội|Lập trình CSDL, Mạng máy tính
+4410007|Nữ|Lê Thị|Lan|2002-09-21|CTK44C|222333444|0912233445|Đà Nẵng|Hệ điều hành, An toàn và bảo mật
+4310008|Nam|Phạm Văn|Long|2003-01-05|CTK43A|333444555|0983344556|TP.HCM|Mạng máy tính,Lập trình mạng
+4510009|Nữ|Nguyễn Thị|Hạnh|2002-03-18|CTK45B|444555666|0934455667|Hải Phòng|Lập trình trên thiết bị di động, Hệ điều hành
+4710010|Nam|Lý Văn|Phong|2001-10-29|CTK47A|555666777|0975566778|Cần Thơ|Đồ án cơ sở, An toàn và bảo mật hệ thống

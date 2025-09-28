@@ -1,0 +1,155 @@
+[
+  {
+    "MSSV": "4210001",
+    "GioiTinh": "Nam",
+    "HoTenLot": "Nguyễn Văn",
+    "Ten": "Anh",
+    "NgaySinh": "2002-05-10T00:00:00",
+    "Lop": "CTK42A",
+    "CMND": "123456789",
+    "SoDT": "0901.234.567",
+    "DiaChi": "Hà Nội",
+    "MonDangKy": [
+      "Mạng máy tính",
+      "Hệ điều hành",
+      "Lập trình CSDL"
+    ]
+  },
+  {
+    "MSSV": "4410002",
+    "GioiTinh": "Nữ",
+    "HoTenLot": "Trần Thị",
+    "Ten": "Bích",
+    "NgaySinh": "2001-12-22T00:00:00",
+    "Lop": "CTK44B",
+    "CMND": "987654321",
+    "SoDT": "0912345678",
+    "DiaChi": "TP.HCM",
+    "MonDangKy": [
+      "Lập trình mạng",
+      "Đồ án cơ sở"
+    ]
+  },
+  {
+    "MSSV": "4710003",
+    "GioiTinh": "Nam",
+    "HoTenLot": "Lê Hoàng",
+    "Ten": "Minh",
+    "NgaySinh": "2003-03-15T00:00:00",
+    "Lop": "CTK47C",
+    "CMND": "456789123",
+    "SoDT": "0987654321",
+    "DiaChi": "Đà Nẵng",
+    "MonDangKy": [
+      "Phương pháp NCKH",
+      "Lập trình CSDL",
+      "Mạng máy tính"
+    ]
+  },
+  {
+    "MSSV": "4910004",
+    "GioiTinh": "Nữ",
+    "HoTenLot": "Phạm Thị",
+    "Ten": "Hoa",
+    "NgaySinh": "2002-08-08T00:00:00",
+    "Lop": "CTK49A",
+    "CMND": "654321987",
+    "SoDT": "0934567890",
+    "DiaChi": "Hải Phòng",
+    "MonDangKy": [
+      "Lập trình trên thiết bị di động",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "4710005",
+    "GioiTinh": "Nam",
+    "HoTenLot": "Ngô Quang",
+    "Ten": "Huy",
+    "NgaySinh": "2001-11-30T00:00:00",
+    "Lop": "CTK47A",
+    "CMND": "192837465",
+    "SoDT": "0976543210",
+    "DiaChi": "Cần Thơ",
+    "MonDangKy": [
+      "Mạng máy tính",
+      "Đồ án cơ sở",
+      "An toàn và bảo mật hệ thống"
+    ]
+  },
+  {
+    "MSSV": "4810006",
+    "GioiTinh": "Nam",
+    "HoTenLot": "Trần Văn",
+    "Ten": "Tuấn",
+    "NgaySinh": "2002-07-12T00:00:00",
+    "Lop": "CTK48B",
+    "CMND": "111222333",
+    "SoDT": "0901122334",
+    "DiaChi": "Hà Nội",
+    "MonDangKy": [
+      "Lập trình CSDL",
+      "Mạng máy tính"
+    ]
+  },
+  {
+    "MSSV": "4410007",
+    "GioiTinh": "Nữ",
+    "HoTenLot": "Lê Thị",
+    "Ten": "Lan",
+    "NgaySinh": "2002-09-21T00:00:00",
+    "Lop": "CTK44C",
+    "CMND": "222333444",
+    "SoDT": "0912233445",
+    "DiaChi": "Đà Nẵng",
+    "MonDangKy": [
+      "Hệ điều hành",
+      "An toàn và bảo mật"
+    ]
+  },
+  {
+    "MSSV": "4310008",
+    "GioiTinh": "Nam",
+    "HoTenLot": "Phạm Văn",
+    "Ten": "Long",
+    "NgaySinh": "2003-01-05T00:00:00",
+    "Lop": "CTK43A",
+    "CMND": "333444555",
+    "SoDT": "0983344556",
+    "DiaChi": "TP.HCM",
+    "MonDangKy": [
+      "Mạng máy tính",
+      "Lập trình mạng"
+    ]
+  },
+  {
+    "MSSV": "4510009",
+    "GioiTinh": "Nữ",
+    "HoTenLot": "Nguyễn Thị",
+    "Ten": "Hạnh",
+    "NgaySinh": "2002-03-18T00:00:00",
+    "Lop": "CTK45B",
+    "CMND": "444555666",
+    "SoDT": "0934455667",
+    "DiaChi": "Hải Phòng",
+    "MonDangKy": [
+      "Lập trình trên thiết bị di động",
+      "Hệ điều hành"
+    ]
+  },
+  {
+    "MSSV": "4710010",
+    "GioiTinh": "Nam",
+    "HoTenLot": "Lý Văn",
+    "Ten": "Phong",
+    "NgaySinh": "2001-10-29T00:00:00",
+    "Lop": "CTK47A",
+    "CMND": "555666777",
+    "SoDT": "0975566778",
+    "DiaChi": "Cần Thơ",
+    "MonDangKy": [
+      "Đồ án cơ sở",
+      "An toàn và bảo mật hệ thống"
+    ]
+  }
+]
